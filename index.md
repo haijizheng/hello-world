@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 热烈欢迎龙哥到访！！！
 
 You can use the [editor on GitHub](https://github.com/haijizheng/hello-world/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
